@@ -1,0 +1,104 @@
+.header {
+    overflow: hidden;
+    border-style: solid;
+    padding: 9px;
+    background-color: powderblue;
+}
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-size: 25px;
+    line-height: 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-family: "Trirong", serif;
+  }
+  
+  .header a.Name {
+    font-size: 25px;
+    font-family: "Trirong", serif;
+  }
+  
+  .header-right {
+    float: right;
+  }
+
+  .code {
+    margin-left: 10%;
+    clear: left;
+    margin-bottom: 100px;
+  }
+  
+  .code img {
+    width: 200px;
+    height: 200px;
+    border-radius: 0%;
+    float: left;
+    margin-right: 50px;
+    border-style: ridge;
+  }
+  
+  .code h1 {
+    font-size: 25px;
+    font-family:"Trirong", serif;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .code p {
+    font-family: "Trirong", serif;
+    vertical-align: middle;
+    text-align: center;
+    font-size: large;
+  }
+  
+  .box img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+
+ 
+ h3 {
+  font-size: larger;
+  font-family: "Trirong", serif;
+  text-align: center;
+}
+
+a {
+  background-color: aliceblue;
+  font-family: "Trirong", serif;
+  border-style: solid;
+  float: left;
+  margin: 0 5px;
+  font-size: large;
+}
+
+ h2 {
+    font-family: "Trirong", serif;
+    font-size: 30px;
+    text-align: left;
+    position: relative;
+    border-left: 6px blue;
+    height: 500px;
+
+ }
+
+#large {
+  width: 900px;
+  height: 400px;
+  object-fit: cover; 
+  float: right;
+}
+
+#footer {
+    
+    margin-top: -180px;
+    height: 180px;
+    clear: both; 
+  
+  } 
